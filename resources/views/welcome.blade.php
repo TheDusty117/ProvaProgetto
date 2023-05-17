@@ -405,7 +405,15 @@
 </head>
 
 <body class="antialiased">
+
+
+    <strong>
+        ciao belo (NICK)
+    </strong>
+
+
     <span>sciao belooo! (corrado)</span>
+
     <h3>
         ciao io sono corrado
     </h3>
