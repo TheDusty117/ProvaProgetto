@@ -424,7 +424,8 @@
 
     <span>Stefano crea un conflitto?</span>
 
-
+{{-- STEFANO --}}
+<span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus culpa repudiandae nostrum minus consequuntur?</span>
 
     {{-- GABRIELE --}}
     <h1>CIAO SONO GABRIELE</h1>
