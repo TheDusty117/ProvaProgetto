@@ -413,7 +413,7 @@
     <h1>
         QUESTO è SBAGLIATO (NICOLA)
     </h1>
-
+    <span>Stefano crea un conflitto?</span>
 
     {{-- GABRIELE --}}
     <h1>CIAO SONO GABRIELE</h1>
