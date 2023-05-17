@@ -411,7 +411,7 @@
     </h3>
 
     <h1>
-        QUESTO è SBAGLIATO (NICOLA)
+        QUESTO è GIUSTO (CORRADO)
     </h1>
 
 
