@@ -15,8 +15,8 @@ return new class extends Migration
     {
         Schema::create('dogs', function (Blueprint $table) {
             $table->id();
-            $table->string('name',150)->unique();
-            $table->text('description')->nullable();
+            $table->string('name');
+            $table->text('description');
             $table->timestamps();
         });
     }
