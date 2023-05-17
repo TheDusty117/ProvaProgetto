@@ -23,6 +23,10 @@
     </head>
     <body class="antialiased">
 
+        <h3>
+        ciao io sono corrado
+        </h3>
+
 
         {{-- GABRIELE --}}
         <h1>CIAO SONO GABRIELE</h1>
@@ -31,6 +35,7 @@
 
 
         <H2>Ciao sono Stefano</H2>
+
 
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
             @if (Route::has('login'))
