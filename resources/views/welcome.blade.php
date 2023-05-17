@@ -420,6 +420,9 @@
         </div>
         @endif
         <h1>
+            CIAO SONO NICOLA QUESTO é IL SECONDO
+        </h1>
+        <h1>
             CIAO SONO NICOLA
         </h1>
         <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
